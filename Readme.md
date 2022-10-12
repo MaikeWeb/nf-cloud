@@ -24,6 +24,9 @@ Make sure the dependencies in
 are installed.
 
 ### Prepare development environment
+Please make sure you are using a yarn version equal or higher to 1.12.0. Yarn can be installed with the npm 
+packet manager via `npm install --global yarn` on a (K)Ubuntu system.
+
 ```bash
 # Create environment
 pipenv shell
